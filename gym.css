@@ -1,0 +1,49 @@
+.type1{
+    position: absolute;
+    top: 0;
+    color:black;
+    background-color: yellow;
+    left: 43%;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    
+}
+.cen-heading{
+    position: absolute;
+    top: 310px;
+    color:white;
+    text-transform: capitalize;
+    
+}
+.center-para{
+    width: 40%;
+    margin: auto;
+    filter: blur(0.8px);
+}
+.btn-1{
+    color: black;
+    background-color: yellow;
+    text-transform: uppercase;
+    width: 200px;
+}
+    .btn-2{
+        color: yellow;
+        background-color: black;
+        text-transform: uppercase;
+        width: 200px;
+    
+}
+.page3-heading{
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+.page03-heading{
+    letter-spacing: 11px;
+    text-transform: uppercase;
+}
+.last{
+    background-color: yellow;
+    color: black;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
